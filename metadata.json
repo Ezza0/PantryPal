@@ -1,0 +1,5 @@
+{
+  "name": "PantryPal",
+  "description": "A beginner-friendly cooking assistant that turns your available ingredients into doable recipes based on your dietary needs.",
+  "requestFramePermissions": []
+}
